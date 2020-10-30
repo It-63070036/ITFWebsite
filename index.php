@@ -1,4 +1,4 @@
 <?php
-echo "<h2>PHP is Fun!</h2>";
-echo"Hello World<br>";
-?>s
+echo "<h2>ITF@KMITL</h2>";
+echo"Lab ITF-4<br>";
+?>
